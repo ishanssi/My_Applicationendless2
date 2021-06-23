@@ -1,0 +1,2 @@
+rootProject.name = "My Applicationendless2"
+include ':app'
